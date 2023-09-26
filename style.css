@@ -1,25 +1,27 @@
-html, body {
+body {
     width: 100%;
   }
-  header {
-  top:0;
-    text-align: center;
-  position:fixed;
-    background-color: DarkSalmon;
-    color: blue;
-    width: 100%;
-    height:50px;
-  padding:10px 0;
+
+header {
+text-align: center;
+position:fixed;
+top:0;
+background-color: DarkSalmon;
+color: blue;
+width: 100%;
+height:50px;
+padding:10px 0;
   }
-  footer {
-    text-align: center;
+
+footer {
+  text-align: center;
   position:fixed;
-    background-color: DarkSalmon;
-    color: blue;
-    width: 100%;
-     height:50px;
-  padding:10px 0;
   bottom:0;
+  background-color: DarkSalmon;
+  color: blue;
+  width: 100%;
+  height:50px;
+  padding:10px 0;
   }
   body {
   padding-top: 60px;
